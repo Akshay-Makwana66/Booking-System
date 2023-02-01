@@ -1,0 +1,19 @@
+.otp{
+    border: 1px solid blue;
+    height: 30px;
+    width: 30px;
+    display: inline;
+    margin-right: 2px;
+}
+.l{
+    border: 1px solid blue;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+   display: inline;
+    margin-right:10px;
+}
+.k{
+    display: flex;
+    justify-content:center;
+}
